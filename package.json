@@ -1,0 +1,12 @@
+{
+  "name": "delwine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "shopify theme dev --store daurizio",
+    "push": "shopify theme push --store daurizio",
+    "pull": "shopify theme pull --store daurizio"
+  },
+  "author": "Thiago Daurizio"
+}
